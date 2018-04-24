@@ -1,4 +1,2 @@
 # hello-world
-
-Step 1
-Step 2 - realize you committed to the wrong branch. 
+Step 3 - Make changes to the EDIT branch.  Committing and merging these branches will wipe out steps 1 and 2
